@@ -28,6 +28,7 @@
       "eshop": {"reply": "We're aware that the e-shop has closed. However, whether a game is available for purchase has no bearing on the legality of downloading that game. The games are still copyrighted, thus downloading them off of the internet is still piracy."},
       "usecase": {"reply": "Emulators are for enhancing your bought game beyond what the console can offer. Which means resolution upscaling, mod support, texture packs, texture filters, speed ups, ect.\nMost importantly it's for the preservation of your games when the console will inevitably no longer be available for purchase.\nEmulators are not for people to commit theft online."},
       "legacy": {"reply": "Please refer to our __legacy builds guide__ to download any older builds of Citra you may need: <https://citra-emu.org/wiki/citra-legacy-builds/>"},
+      "vr": {"reply":"Please join the Flat2VR modding server (https://discord.gg/uyHqHqK2FH), and get the CVR role in https://discord.com/channels/747967102895390741/1196505250102792232 then ask for support in their cvr-support channel"},
       "issue": {"reply": "Please refer to our __GitHub issues page__ to file an issue or a feature request: <https://github.com/citra-emu/citra/issues/new/choose>"},
       "lenny": { "reply": "( ͡° ͜ʖ ͡°)"},
       "( ͡° ͜ʖ ͡°)": { "reply": "lenny"},
